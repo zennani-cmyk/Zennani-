@@ -1,0 +1,6 @@
+{
+  "name": "الأحمد تيفي",
+  "description": "تطبيق أباحاحا الأحمد تيفي لمشاهدة البث المباشر للقنوات التلفزيونية العربية والعالمية مع مشغل مدمج ومفضلة وتصنيفات شاملة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

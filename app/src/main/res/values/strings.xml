@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">الأحمد تيفي</string>
+    <string name="search_hint">ابحث عن قناة أو بلد أو تصنيف…</string>
+    <string name="all_categories">الكل</string>
+    <string name="category_news">أخبار</string>
+    <string name="category_islamic">دين وقرآن</string>
+    <string name="category_sports">رياضة</string>
+    <string name="category_entertainment">ترفيه</string>
+    <string name="category_kids">أطفال</string>
+    <string name="category_docs">وثائقي</string>
+    <string name="category_international">عالمية</string>
+    <string name="tab_channels">القنوات</string>
+    <string name="tab_favorites">المفضلة</string>
+    <string name="tab_epg">دليل البرامج</string>
+    <string name="tab_custom">إضافة رابط</string>
+</resources>
